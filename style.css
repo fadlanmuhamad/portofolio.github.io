@@ -10,8 +10,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-
-
 .wrapper {
     width: 1100px;
     margin: auto;
@@ -40,7 +38,7 @@ nav {
     top: 0;
     background: #FFFFFF;
     z-index: 1;
-    border-bottom:1px solid #364f6b;
+    border-bottom:1px solid #A0E9FF;
 }
 
 nav ul {
@@ -81,12 +79,12 @@ section {
     font-size: 20px;
     font-weight: bold;
     font-family: 'Open Sans', sans-serif;
-    color: #364f6b;
+    color: #000000;
 }
 
 h2 {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 800;
+    font-family:'Open Sans', sans-serif;
+    font-weight: 1100;
     font-size: 45px;
     margin-bottom: 20px;
     color: #364f6b;
@@ -95,7 +93,7 @@ h2 {
 }
 
 a.tbl-biru {
-    background: #3f72af;
+    background: #A0E9FF;
     border-radius: 20px;
     margin-top: 20px;
     padding: 15px 20px 15px 20px;
@@ -105,12 +103,12 @@ a.tbl-biru {
 }
 
 a.tbl-biru:hover {
-    background: #fc5185;
+    background: rgb(23, 79, 107);
     text-decoration: none;
 }
 
 a.tbl-pink {
-    background: #fc5185;
+    background: #A0E9FF;
     border-radius: 20px;
     margin-top: 20px;
     padding: 15px 20px 15px 20px;
@@ -148,11 +146,11 @@ p {
 
 .kartu-tutor img {
     width: 80%;
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 .kartu-tutor p {
-    font-family: 'comic sans ms';
+    font-family: 'Open Sans', sans-serif;
     font-weight: 800;
     font-size: 25px;
     text-align: center;
@@ -199,7 +197,7 @@ h3 {
     font-weight: 800;
     font-size: 30px;
     margin-bottom: 20px;
-    color: #364f6b;
+    color: #0c0e0f;
     width: 100%;
     line-height: 50px;
 }
